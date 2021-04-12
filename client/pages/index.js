@@ -2,7 +2,7 @@ const Index = () => {
   return (
     <>
       <h1 className="jumbotron text-center bg-primary square">
-        Self setup nextjs app
+        Online Marketplace
       </h1>
       <p>It is setup by me while looking the docs</p>
     </>

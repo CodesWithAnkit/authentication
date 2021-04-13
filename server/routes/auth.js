@@ -3,6 +3,6 @@ import { register } from "../controllers/auth";
 
 const rotuer = express.Router();
 
-rotuer.get("/register", register);
+rotuer.post("/register", register);
 
 module.exports = rotuer;
